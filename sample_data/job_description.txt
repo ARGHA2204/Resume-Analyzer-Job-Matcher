@@ -1,0 +1,11 @@
+We are looking for a Software Engineer with strong skills in Python, machine learning, and data structures.
+
+Requirements:
+- Experience with Flask and REST APIs
+- Knowledge of Git and version control
+- Understanding of algorithms and problem solving
+- Experience with SQL and web development
+
+Preferred:
+- NLP projects
+- Machine learning model development
